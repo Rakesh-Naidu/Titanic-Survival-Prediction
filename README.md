@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-Machine-Learning 🚢🛳✔
+# Titanic-Survival-Prediction 🚢🛳✔
 ## Problem Statement
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing numerous passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
